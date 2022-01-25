@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "小肥羊餐饮店",
+  "navigationBarBackgroundColor": "#F7D45F",
+  "usingComponents": {
+    "cart": "/pages/home-pages/components/shopping-cart"
+  }
+}

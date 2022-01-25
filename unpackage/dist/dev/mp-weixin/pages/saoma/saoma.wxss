@@ -1,0 +1,8 @@
+
+page{
+	background-image: url('https://saoma-1309369500.cos.ap-nanjing.myqcloud.com/saoma-beijing.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+

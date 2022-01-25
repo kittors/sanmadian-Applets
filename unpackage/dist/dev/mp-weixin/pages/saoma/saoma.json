@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "扫码点餐",
+  "navigationBarBackgroundColor": "#FEFEFE",
+  "enablePullDownRefresh": false,
+  "usingComponents": {}
+}
